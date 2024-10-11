@@ -1,0 +1,11 @@
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\bin\Debug\Ejercicio7calculadora.exe.config
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\bin\Debug\Ejercicio7calculadora.exe
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\bin\Debug\Ejercicio7calculadora.pdb
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\bin\Debug\ClassLibrary1.dll
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\bin\Debug\ClassLibrary1.pdb
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\obj\Debug\Ejercicio7calculadora.csprojResolveAssemblyReference.cache
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\obj\Debug\Ejercicio7calculadora.Form1.resources
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\obj\Debug\Ejercicio7calculadora.Properties.Resources.resources
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\obj\Debug\Ejercicio7calculadora.csproj.GenerateResource.Cache
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\obj\Debug\Ejercicio7calculadora.exe
+C:\Users\kbre1\OneDrive\Documents\Visual Studio 2012\Projects\Ejercicio7calculadora\Ejercicio7calculadora\obj\Debug\Ejercicio7calculadora.pdb
